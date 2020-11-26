@@ -1,0 +1,6 @@
+stm32f3xx_ll_gpio.h:879:22:LL_GPIO_SetOutputPin	16	static
+stm32f3xx_ll_gpio.h:908:22:LL_GPIO_ResetOutputPin	16	static
+digits.c:14:6:setDigitOne	8	static
+digits.c:29:6:setDigitTwo	8	static
+digits.c:44:6:setDigitThree	8	static
+digits.c:61:6:setDigitFour	8	static
